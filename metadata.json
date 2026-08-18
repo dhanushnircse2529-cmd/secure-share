@@ -1,0 +1,8 @@
+{
+  "name": "Remix SecureShare – Secure File Sharing",
+  "description": "Secure file-sharing platform with AES-256 encryption, password-protected expiry links, access limits, and access audit logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
